@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ContactsManagerApp</string>
+    <string name="name">Name</string>
+    <string name="email">email</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_email">enter your email</string>
 </resources>
