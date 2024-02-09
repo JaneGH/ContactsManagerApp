@@ -39,6 +39,7 @@ android {
     buildFeatures {
         dataBinding = true
     }
+    buildToolsVersion = "28.0.3"
 }
 
 dependencies {
